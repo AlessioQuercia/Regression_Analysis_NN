@@ -1,4 +1,4 @@
-# Regression Analysis and Neural Network
+# Regression Analysis and Neural Networks
 
 
 ## Purpose
