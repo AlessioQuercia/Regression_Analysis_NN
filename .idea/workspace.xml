@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8a3df1f-0839-49eb-accb-fde9181891f9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Keras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NNRegressionProject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProgettoMSA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegressionNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlowCustomEstimators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TensorFlowGuide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,23 +12,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Progetto_MSA$TensorFlowCustomEstimators.coverage" NAME="TensorFlowCustomEstimators Coverage Results" MODIFIED="1535226919635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$Keras.coverage" NAME="Keras Coverage Results" MODIFIED="1535559248278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$Main__1_.coverage" NAME="Main (1) Coverage Results" MODIFIED="1534843370733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$RegressionNN.coverage" NAME="RegressionNN Coverage Results" MODIFIED="1534843548641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$Main__2_.coverage" NAME="Main (2) Coverage Results" MODIFIED="1535030854603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$TensorFlow.coverage" NAME="TensorFlow Coverage Results" MODIFIED="1535143577679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$Main.coverage" NAME="Main Coverage Results" MODIFIED="1534776375145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$ProgettoMSA.coverage" NAME="ProgettoMSA Coverage Results" MODIFIED="1535405606688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Progetto_MSA$NNRegressionProject.coverage" NAME="NNRegressionProject Coverage Results" MODIFIED="1536662588222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="RegressionNN.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RegressionNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
+            <state relative-caret-position="1462">
               <caret line="94" selection-start-line="94" selection-end-line="95" selection-end-column="75" />
             </state>
           </provider>
@@ -43,7 +26,7 @@
       <file leaf-file-name="Regression.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
+            <state relative-caret-position="901">
               <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
             </state>
           </provider>
@@ -54,9 +37,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
               <caret line="32" column="29" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -66,9 +46,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15674">
               <caret line="929" column="11" selection-start-line="929" selection-start-column="11" selection-end-line="929" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -76,12 +53,8 @@
       <file leaf-file-name="TensorFlowCustomEstimators.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TensorFlowCustomEstimators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2873">
+            <state relative-caret-position="2958">
               <caret line="181" selection-start-line="181" selection-end-line="181" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-                <element signature="e#284#638#0" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -89,18 +62,8 @@
       <file leaf-file-name="ProgettoMSA.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProgettoMSA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
+            <state relative-caret-position="3468">
               <caret line="211" column="18" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-                <element signature="e#238#647#0" />
-                <element signature="e#682#2122#0" />
-                <element signature="e#2202#2556#0" />
-                <element signature="e#2801#3595#0" />
-                <element signature="e#4300#4371#0" />
-                <element signature="e#4433#4873#0" />
-                <element signature="e#8072#9477#0" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -108,11 +71,8 @@
       <file leaf-file-name="NNRegressionProject.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NNRegressionProject.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="164" column="40" lean-forward="true" selection-start-line="164" selection-start-column="40" selection-end-line="164" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-4128">
+              <caret line="164" column="40" selection-start-line="164" selection-start-column="40" selection-end-line="164" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -197,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,11 +168,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Progetto_INMCA" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Progetto_SDP" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
@@ -230,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NNRegressionProject">
+  <component name="RunManager" selected="Python.Keras">
     <configuration name="Keras" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Progetto_MSA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,21 +290,12 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.Keras" />
+      <item itemvalue="Python.NNRegressionProject" />
+      <item itemvalue="Python.ProgettoMSA" />
       <item itemvalue="Python.TensorFlow" />
       <item itemvalue="Python.TensorFlowCustomEstimators" />
-      <item itemvalue="Python.ProgettoMSA" />
-      <item itemvalue="Python.NNRegressionProject" />
-      <item itemvalue="Python.Keras" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.NNRegressionProject" />
-        <item itemvalue="Python.Keras" />
-        <item itemvalue="Python.ProgettoMSA" />
-        <item itemvalue="Python.TensorFlowCustomEstimators" />
-        <item itemvalue="Python.TensorFlow" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -353,8 +307,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534519890609</updated>
+      <workItem from="1540037596856" duration="40000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="40000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -373,13 +331,22 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,9 +372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -415,9 +379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15674">
           <caret line="929" column="11" selection-start-line="929" selection-start-column="11" selection-end-line="929" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -425,10 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2873">
           <caret line="181" lean-forward="true" selection-start-line="181" selection-end-line="181" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#284#638#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -436,16 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2686">
           <caret line="245" selection-start-line="245" selection-start-column="2" selection-end-line="246" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#238#647#0" />
-            <element signature="e#682#2122#0" />
-            <element signature="e#2202#2556#0" />
-            <element signature="e#2801#3595#0" />
-            <element signature="e#4300#4371#0" />
-            <element signature="e#4433#4873#0" />
-            <element signature="e#8072#9477#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -467,9 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
           <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -477,9 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15198">
           <caret line="901" lean-forward="true" selection-start-line="901" selection-end-line="901" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -487,10 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#284#638#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -498,16 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#238#647#0" />
-            <element signature="e#682#2122#0" />
-            <element signature="e#2202#2556#0" />
-            <element signature="e#2801#3595#0" />
-            <element signature="e#4300#4371#0" />
-            <element signature="e#4433#4873#0" />
-            <element signature="e#8072#9477#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -529,9 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -539,9 +463,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -556,10 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2057">
           <caret line="128" column="26" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#284#638#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
           <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,9 +505,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,10 +519,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#284#638#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,9 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
           <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -643,9 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12393">
           <caret line="736" column="5" lean-forward="true" selection-start-line="736" selection-start-column="5" selection-end-line="736" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,9 +568,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
           <caret line="88" column="30" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -677,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9860">
           <caret line="587" lean-forward="true" selection-start-line="587" selection-end-line="587" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,9 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,9 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15674">
           <caret line="929" column="11" selection-start-line="929" selection-start-column="11" selection-end-line="929" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,25 +663,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RegressionNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
+        <state relative-caret-position="1462">
           <caret line="94" selection-start-line="94" selection-end-line="95" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlowCustomEstimators.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2873">
+        <state relative-caret-position="2958">
           <caret line="181" selection-start-line="181" selection-end-line="181" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#284#638#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
+        <state relative-caret-position="901">
           <caret line="57" column="79" selection-start-line="57" selection-start-column="79" selection-end-line="57" selection-end-column="79" />
         </state>
       </provider>
@@ -808,36 +693,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="32" column="29" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProgettoMSA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
+        <state relative-caret-position="3468">
           <caret line="211" column="18" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#238#647#0" />
-            <element signature="e#682#2122#0" />
-            <element signature="e#2202#2556#0" />
-            <element signature="e#2801#3595#0" />
-            <element signature="e#4300#4371#0" />
-            <element signature="e#4433#4873#0" />
-            <element signature="e#8072#9477#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NNRegressionProject.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="164" column="40" lean-forward="true" selection-start-line="164" selection-start-column="40" selection-end-line="164" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-4128">
+          <caret line="164" column="40" selection-start-line="164" selection-start-column="40" selection-end-line="164" selection-end-column="40" />
         </state>
       </provider>
     </entry>
