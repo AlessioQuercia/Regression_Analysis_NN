@@ -10,6 +10,7 @@ Several experiments were made to test up regression problems with neural network
 A validation loop over some validation epochs was used to obtain a good training algorithm's parameter (learning rate) for the subsequent training loop, and external cross-validation was used to obtain the model's accuracy as the mean of the different test errors computed as mean absolute error.
 
 I tested both the linear regression and the logistic regression approachs, depending on the dataset used. I used TensorFlow's low level API to implement the models. For each test I used the cross-validation technique to compute the accuracy of the model in terms of mean error.
+
 For more info, read the report in the Links section.
 
 ## Links
