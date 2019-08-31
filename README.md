@@ -11,7 +11,4 @@ A validation loop over some validation epochs was used to obtain a good training
 
 I tested both the linear regression and the logistic regression approachs, depending on the dataset used. I used TensorFlow's low level API to implement the models. For each test I used the cross-validation technique to compute the accuracy of the model in terms of mean error.
 
-For more info, read the report in the Links section.
-
-## Links
-**Report**: https://github.com/AlessioQuercia/Regression_Analysis_NN/blob/master/RegressionAnalysis.pdf
+For more info, read the report.
